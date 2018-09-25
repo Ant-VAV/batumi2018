@@ -1,0 +1,15 @@
+.commandResult {
+    margin-bottom: 0.5rem;
+}
+
+.commandResult table {
+    font-size: 1.4rem;
+}
+
+.commandToggle {
+    display: inline-block;
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 0.1rem dashed rgba(0,0,0, 0.3);
+}
+
