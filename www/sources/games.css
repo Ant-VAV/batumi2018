@@ -1,0 +1,8 @@
+.standing {
+  margin-bottom: 1rem;
+}
+
+.standing a {
+  display: inline-block;
+  border-bottom: 0.1rem dashed #22293B;
+}
