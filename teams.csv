@@ -1,0 +1,185 @@
+Afghanistan,AFG,5,
+Albania,ALB,5,5
+Algeria,ALG,5,5
+Andorra,AND,5,
+Angola,ANG,5,5
+Antigua and Barbuda,ANT,5,
+Argentina,ARG,5,5
+Armenia,ARM,5,5
+Aruba,ARU,5,
+Australia,AUS,5,5
+Austria,AUT,5,5
+Azerbaijan,AZE,5,5
+Bahamas,BAH,5,5
+Bahrain,BRN,5,
+Bangladesh,BAN,5,5
+Barbados,BAR,5,5
+Belarus,BLR,5,5
+Belgium,BEL,5,5
+Bermuda,BER,5,5
+Bolivia,BOL,5,5
+Bosnia & Herzegovina,BIH,5,5
+Botswana,BOT,5,5
+Brazil,BRA,5,5
+Brunei,BRU,5,
+Burundi,BDI,5,4
+Cameroon,CMR,5,5
+Canada,CAN,5,5
+Cape Verde,CPV,5,
+Central African Republic,CAF,5,4
+Chile,CHI,5,5
+China,CHN,5,5
+Chinese Taipei,TPE,4,4
+Colombia,COL,5,5
+Congo,CGO,5,
+Costa Rica,CRC,5,5
+Croatia,CRO,5,5
+Cuba,CUB,5,5
+Cyprus,CYP,5,
+Czech Republic,CZE,5,5
+Denmark,DEN,5,5
+Djibouti,DJI,4,4
+Dominican Republic,DOM,5,5
+Ecuador,ECU,5,5
+Egypt,EGY,5,5
+El Salvador,ESA,5,5
+England,ENG,5,5
+Eritrea,ERI,5,
+Estonia,EST,5,5
+Ethiopia,ETH,5,5
+Faroe Islands,FAI,5,
+Finland,FIN,5,5
+France,FRA,5,5
+FYROM,MKD,5,5
+Gabon,GAB,5,5
+Gambia,GAM,5,5
+Georgia 1,GEO1,5,5
+Georgia 2,GEO2,5,5
+Georgia 3,GEO3,5,5
+Germany,GER,5,5
+Ghana,GHA,5,5
+Greece,GRE,5,5
+Guam,GUM,5,
+Guatemala,GUA,4,5
+Guernsey,GCI,5,
+Guyana,GUY,5,5
+Haiti,HAI,5,
+Honduras,HON,5,5
+Hong Kong,HKG,5,5
+Hungary,HUN,5,5
+IBCA,IBCA,5,5
+ICCD,ICCD,5,5
+Iceland,ISL,5,5
+India,IND,5,5
+Indonesia,INA,5,5
+IPCA,IPCA,5,5
+Iran,IRI,5,5
+Iraq,IRQ,5,5
+Ireland,IRL,5,5
+Israel,ISR,5,5
+Italy,ITA,5,5
+Ivory Coast,CIV,5,5
+Jamaica,JAM,5,5
+Japan,JPN,5,5
+Jersey,JCI,5,
+Jordan,JOR,5,5
+Kazakhstan,KAZ,5,5
+Kenya,KEN,5,5
+Kosovo,KOS,5,5
+Kuwait,KUW,5,5
+Kyrgyzstan,KGZ,5,5
+Latvia,LAT,5,5
+Lebanon,LBN,5,
+Lesotho,LES,5,5
+Liberia,LBR,5,
+Libya,LBA,5,
+Liechtenstein,LIE,5,
+Lithuania,LTU,5,5
+Luxembourg,LUX,5,5
+Macau,MAC,5,
+Madagascar,MAD,5,5
+Malawi,MAW,5,5
+Malaysia,MAS,5,5
+Maldives,MDV,5,5
+Mali,MLI,5,
+Malta,MLT,5,5
+Mauritania,MTN,5,
+Mauritius,MRI,5,5
+Mexico,MEX,5,5
+Moldova,MDA,5,5
+Monaco,MNC,5,5
+Mongolia,MGL,5,5
+Montenegro,MNE,5,5
+Morocco,MAR,5,5
+Mozambique,MOZ,5,5
+Myanmar,MYA,5,
+Namibia,NAM,5,5
+Nauru,NRU,5,
+Nepal,NEP,5,5
+Netherlands,NED,5,5
+Netherlands Antilles,AHO,5,5
+New Zealand,NZL,5,5
+Nicaragua,NCA,5,5
+Nigeria,NGR,5,5
+Norway,NOR,5,5
+Oman,OMA,5,
+Pakistan,PAK,5,5
+Palau,PLW,5,5
+Palestine,PLE,5,5
+Panama,PAN,5,5
+Papua New Guinea,PNG,5,
+Paraguay,PAR,5,4
+Peru,PER,5,5
+Philippines,PHI,5,5
+Poland,POL,5,5
+Portugal,POR,5,5
+Puerto Rico,PUR,5,5
+Qatar,QAT,5,
+Romania,ROU,5,5
+Russia,RUS,5,5
+Rwanda,RWA,5,5
+San Marino,SMR,5,
+Sao Tome & Principe,STP,5,3
+Saudi Arabia,KSA,5,
+Scotland,SCO,5,5
+Senegal,SEN,5,5
+Serbia,SRB,5,5
+Seychelles,SEY,5,5
+Sierra Leone,SLE,5,5
+Singapore,SGP,5,4
+Slovakia,SVK,5,5
+Slovenia,SLO,5,5
+Somalia,SOM,5,
+South Africa,RSA,5,5
+South Korea,KOR,5,5
+South Sudan,SSD,5,
+Spain,ESP,5,5
+Sri Lanka,SRI,5,5
+Sudan,SUD,5,5
+Surinam,SUR,5,5
+Swaziland,SWZ,5,5
+Sweden,SWE,5,5
+Switzerland,SUI,5,5
+Syria,SYR,5,5
+Tajikistan,TJK,5,5
+Tanzania,TAN,5,5
+Thailand,THA,5,5
+Timor Leste,TLS,4,
+Togo,TOG,5,5
+Trinidad & Tobago,TTO,5,5
+Tunisia,TUN,5,5
+Turkey,TUR,5,5
+Turkmenistan,TKM,5,5
+Uganda,UGA,5,5
+Ukraine,UKR,5,5
+United Arab Emirates,UAE,5,5
+United States of America,USA,5,5
+Uruguay,URU,5,5
+US Virgin Islands,ISV,4,
+Uzbekistan,UZB,5,5
+Venezuela,VEN,5,5
+Vietnam,VIE,5,5
+Wales,WLS,5,5
+Yemen,YEM,5,
+Zambia,ZAM,5,5
+Zimbabwe,ZIM,5,5
