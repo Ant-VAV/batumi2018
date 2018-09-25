@@ -10,11 +10,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a {
-    color: #22293B;
-    text-decoration: none;
-}
-
 .year {
     color: #f9c71d;
     font-weight: bold;
@@ -29,63 +24,46 @@ a {
 }
 
 header {
-    /* display: flex; */
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
 
+.head {
+    display: flex;
+}
+
 .logo {
-    position: absolute;
-    height: 10rem;
+    height: auto;
     width: 4rem;
     background-image: url("./images/logo-color.png");
     background-repeat: no-repeat;
     background-size: contain;
 
-    /* flex: 0 0 auto; */
+    flex: 0 0 auto;
 }
 
 .title {
     font-size: 4rem;
-    /* flex: 1 1 auto; */
+    flex: 1 1 auto;
     text-align: center;
-
-    position: relative;
-}
-
-.title::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-
-    height: 100%;
-    width: 4rem;
-    background-image: url("./images/logo-color.png");
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 nav {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
     border-top: 0.2rem solid #393F4F;
     border-bottom: 0.2rem solid #393F4F;
-    text-align: center;
     padding: 1rem 0 1rem 4rem;
+    min-height: 5rem;
+}
+
+.navbar-toggler {
+    width: 5rem;
 }
 
 nav a {
     margin-right: 2rem;
     position: relative;
-}
-
-nav a:hover {
-    color: #cbcbcb;
-    transition: color 0.2s;
-}
-
-nav a:active {
-    color: #e6e6e6;
 }
 
 nav a::after {
