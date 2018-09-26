@@ -1,0 +1,10 @@
+.reviews p {
+  font-size: 1.5rem;
+  color: #22293B;
+}
+
+.reviews h4 {
+  color: #393F4F;
+  font-style: italic;
+  text-align: right;
+}
