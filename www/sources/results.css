@@ -13,3 +13,6 @@
     border-bottom: 0.1rem dashed rgba(0,0,0, 0.3);
 }
 
+.table td {
+  font-size: 1.3rem;
+}
