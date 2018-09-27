@@ -3,3 +3,10 @@
   margin: 0.5rem 0;
   border-bottom: 0.1rem dashed #29a8df;
 }
+.table td {
+  font-size: 1.3rem;
+}
+.pairing a {
+  font-size: 1.4rem;
+  border-bottom: 0.1rem dashed #22293B;
+}
