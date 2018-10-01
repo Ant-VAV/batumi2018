@@ -16,3 +16,21 @@
 .table td {
   font-size: 1.5rem;
 }
+
+.link {
+    font-size: 2rem;
+    border-bottom: 1px solid #000;
+}
+
+.standing th {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.standing td {
+    text-align: center;
+}
+
+.standing abbr {
+    text-decoration: none;
+}
